@@ -15,6 +15,7 @@ After the installation, to run the 'json-server' local database, you need to run
 And then, access the database in the following local URL:
 [http://localhost:3000/trips](http://localhost:3000/trips)
 
+
 After that, in a new terminal, you can start the React Application with the following command:
 
 ### `npm run start`
